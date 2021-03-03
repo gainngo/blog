@@ -36,7 +36,7 @@
     "{{ $bundle.Data.Integrity }}" crossorigin="anonymous">
 
     <!-- styles file -->
-    <link rel="stylesheet" type="text/css" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="{{ $styles.Permalink }}" crossorigin="anonymous">
     {{- with $s.customCSS }}
     {{- range . -}}
 	  <link rel="stylesheet" href="{{ relURL . }}">
