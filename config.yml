@@ -1,7 +1,7 @@
 baseURL: "https://gainngo.com"
 title: Gain N Go
 paginate: 5
-theme: PaperMod
+theme: github.com/adityatelange/hugo-PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
