@@ -22,11 +22,6 @@ url = "archives"
 weight = 5
 
 [[languages.en.menu.main]]
-name = "Projects"
-url = "projects"
-weight = 5
-
-[[languages.en.menu.main]]
 name = "Search"
 url = "search/"
 weight = 10
@@ -47,7 +42,7 @@ home = [ "HTML", "RSS", "JSON" ]
 [params]
 env = "production"
 description = "Blog by Gain N go"
-author = "Loner"
+author = "TheLoneRanger"
 defaultTheme = "auto"
 ShowShareButtons = true
 ShowReadingTime = true
@@ -72,8 +67,8 @@ images = [ "https://images.unsplash.com/photo-1437773540554-96d393b4d0c9?ixlib=r
   [params.profileMode]
   enabled = true
   title = "Gain N Go"
-  imageUrl = "https://bestlovesms.in/wp-content/uploads/2017/04/Narendra-Modi-Profile-Pictures.jpg"
-  imageTitle = "my image"
+  imageUrl = "https://i.ibb.co/fkGj6rG/96a5cf08-3e5b-47e5-85b9-5dadbaed1a5a-200x200.png" 
+  imageTitle = "logo"
 
     [[params.profileMode.buttons]]
     name = "Archives"
@@ -98,7 +93,7 @@ Welcome to demo of hugo's theme PaperMod.
 
   [[params.socialIcons]]
   name = "github"
-  url = "https://github.com/adityatelange/hugo-PaperMod"
+  url = "https://github.com/"
 
   [[params.socialIcons]]
   name = "instagram"
