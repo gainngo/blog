@@ -54,8 +54,8 @@ images = [ "papermod-cover.png" ]
 
   [params.profileMode]
   enabled = true
-  title = "G Rohit"
-  imageUrl = "https://i.postimg.cc/4dtSF5vb/gr-logo.png"
+  title = "Gain N Go"
+  imageUrl = "https://bestlovesms.in/wp-content/uploads/2017/04/Narendra-Modi-Profile-Pictures.jpg"
   imageTitle = "my image"
 
     [[params.profileMode.buttons]]
