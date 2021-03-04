@@ -53,15 +53,15 @@ ShowToc = true
 images = [ "https://images.unsplash.com/photo-1437773540554-96d393b4d0c9?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1356&q=80" ]
 
   [params.assets]
-  favicon = "https://iconpie.com/icons/5909316/Assets.xcassets/AppIcon.appiconset/172.png"
-  favicon16x16 = "https://iconpie.com/icons/5909316/Assets.xcassets/AppIcon.appiconset/172.png"
-  favicon32x32 = "https://iconpie.com/icons/5909316/Assets.xcassets/AppIcon.appiconset/172.png"
-  apple_touch_icon = "https://iconpie.com/icons/5909316/Assets.xcassets/AppIcon.appiconset/172.png"
-  safari_pinned_tab = "https://iconpie.com/icons/5909316/Assets.xcassets/AppIcon.appiconset/172.png"
+  favicon = "https://i.ibb.co/N31zCvQ/ms-icon-310x310.png"
+  favicon16x16 = "https://i.ibb.co/N31zCvQ/ms-icon-310x310.png"
+  favicon32x32 = "https://i.ibb.co/N31zCvQ/ms-icon-310x310.png"
+  apple_touch_icon = "https://i.ibb.co/N31zCvQ/ms-icon-310x310.png"
+  safari_pinned_tab = "https://i.ibb.co/N31zCvQ/ms-icon-310x310.png"
 
   [params.label]
   text = "Home"
-  icon = "https://iconpie.com/icons/5909316/Assets.xcassets/AppIcon.appiconset/172.png"
+  icon = "https://i.ibb.co/N31zCvQ/ms-icon-310x310.png"
   iconHeight = 35
 
   [params.profileMode]
