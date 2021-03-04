@@ -55,13 +55,13 @@ images = [ "https://images.unsplash.com/photo-1437773540554-96d393b4d0c9?ixlib=r
   [params.assets]
   favicon = "https://iconpie.com/icons/5909316/Assets.xcassets/AppIcon.appiconset/172.png"
   favicon16x16 = "https://iconpie.com/icons/5909316/Assets.xcassets/AppIcon.appiconset/172.png"
-  favicon32x32 = "<link / abs url>"
-  apple_touch_icon = "<link / abs url>"
-  safari_pinned_tab = "<link / abs url>"
+  favicon32x32 = "https://iconpie.com/icons/5909316/Assets.xcassets/AppIcon.appiconset/172.png"
+  apple_touch_icon = "https://iconpie.com/icons/5909316/Assets.xcassets/AppIcon.appiconset/172.png"
+  safari_pinned_tab = "https://iconpie.com/icons/5909316/Assets.xcassets/AppIcon.appiconset/172.png"
 
   [params.label]
   text = "Home"
-  icon = "/apple-touch-icon.png"
+  icon = "https://iconpie.com/icons/5909316/Assets.xcassets/AppIcon.appiconset/172.png"
   iconHeight = 35
 
   [params.profileMode]
