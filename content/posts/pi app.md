@@ -35,3 +35,7 @@ The mining does not drain your phone's battery as it dosen't use phone resources
 ### Steps to start mining free Pi:
 Go to https://minepi.com/shailendrasr and use "shailendrasr" as invite code to join the app and start mining. 
 You can also download the official Pi Network application from Play Store or App Store. 
+
+
+## Update
+Pi have started rolling out KYC process that means that we can soon expect transactional capabilities which will allow us to buy and sell the currency.
