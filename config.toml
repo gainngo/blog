@@ -12,6 +12,9 @@ disqusShortname = "gainngo"
 [minify]
 disableXML = true
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [languages.en]
 languageName = "English"
 weight = 1
