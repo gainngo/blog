@@ -1,9 +1,10 @@
-baseURL = "/"
+baseURL = "www.gainngo.com"
 title = "Gain N Go"
 paginate = 5
 theme = "PaperMod"
 enableInlineShortcodes = true
 enableRobotsTXT = true
+canonifyURLs = true
 buildDrafts = true
 buildFuture = true
 buildExpired = true
