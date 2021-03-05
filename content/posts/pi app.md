@@ -36,6 +36,8 @@ The mining does not drain your phone's battery as it dosen't use phone resources
 Go to https://minepi.com/shailendrasr and use "shailendrasr" as invite code to join the app and start mining. 
 You can also download the official Pi Network application from Play Store or App Store. 
 
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=8ba2d70f-e1d0-4913-b411-9ad02b54e3b2"></script>
+
 
 ## Update
 Pi have started rolling out KYC process that means that we can soon expect transactional capabilities which will allow us to buy and sell the currency.
