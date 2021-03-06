@@ -2,7 +2,7 @@
 author: "LoneRanger"
 title: "Here's why you need a Credit Card Right Away!"
 date: "2021-03-06"
-description: "How Credit Card are one of the best investment in todays world!"
+description: "How Credit Cards are one of the best investment in todays world!"
 tags: ["credit cards", "earn", "savings", "rewards"]
 categories: ["earn"]
 series: ["Themes Guide"]
@@ -19,7 +19,7 @@ cover:
     relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 ## The Myth
-credit Cards have a kind of bad image associated with themselves especially in India. The primary reason behind this that alot of people actually have wrong idea about how a credit card works. They have a pre-conceived notion that having a credit card means debt but this is such a misunderstood thing.Continue reading to know why credit card can be one of the best earning stream for you(earnings as savings) and how can also prepare your credit score for future.
+Credit Cards have a kind of bad image associated with themselves especially in India. The primary reason behind this is that alot of people actually have the wrong idea about how a credit card works. They have a pre-conceived notion that having a credit card means debt but this is such a misunderstood thing. Continue reading to know why credit card can be one of the best earning stream for you(earnings as savings) and how can also prepare your credit score for future.
 
 ## What is a Credit Card
 In simple terms, a credit card is an instrument which allows you to purchase stuff on credit. It's a lot more than that and we'll talk about it further. 
@@ -29,7 +29,7 @@ Alot of people think that we have to pay high interests on the credit we use but
 
 ## The Juicy Part
 Now let's come to the part we all wanna know about, how can be benefit from credit cards. 
-Credit cards actually have alot, I mean alot lot of reward schemes associated with them. Depending on card provider and type, there are alot of schemes available with specific use cases. For example, The Axis Ace Credit Card is a begineer freindly card which gives unlimited 5% cashback on bill payments and recharges on Google Pay which one of the most used payment platforms in India. FIVE% is a lot considering the intereests nowadays on savings accounts. Not just this, it gives 4% cashback on Swiggy, Ola, and Zomato, 2% cashback on all other spends with no upper limit. That is insane considering the amount of we can save with day to day purchases. It also provides lounge access and other features such as restaurant partner offers up to 20% off and fuel surcharge waivers.
+Credit cards actually have alot, I mean alot lot of reward schemes associated with them. Depending on card provider and type, there are alot of schemes available with specific use cases. For example, The Axis Ace Credit Card is a begineer freindly card which gives unlimited 5% cashback on bill payments and recharges on Google Pay which one of the most used payment platforms in India. FIVE% is a lot considering the interest rates nowadays on savings accounts. Not just this, it gives 4% cashback on Swiggy, Ola, and Zomato, 2% cashback on all other spends with no upper limit. That is insane considering the amount we can save with day to day purchases. It also provides lounge access and other features such as restaurant partner offers up to 20% off and fuel surcharge waivers.
 
 Similarly, there are hunderds of cards with wide range of offers such as Flipkart Axis Card gives unlimited 5% cashback on Fplikart, Myntra and 4% flat cashback on Uber, Swiggy, MakeMyTrip, PVR, GoIbibo, etc and other partner sites. The ICICI Amazon Pay card gives upto 5% cashback on Amazon and cashbacks on many other partner sites.The list of such cards goes on forever and maybe I'll make a blog about the top best caredit cards you can have.
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=8ba2d70f-e1d0-4913-b411-9ad02b54e3b2"></script>
